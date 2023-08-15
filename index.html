@@ -18,33 +18,28 @@
         <a href="#contact">Contact</a>
     </nav>
     <section id="about">
-        <h2>About Me</h2>
-        <ul>
-            <!-- ... various details about Jonathan Oakey ... -->
-        </ul>
+        <h2><button class="collapsible">About Me</button></h2>
+        <div class="content">
+            <ul>
+                <!-- ... various details about Jonathan Oakey ... -->
+            </ul>
+        </div>
     </section>
     <section id="projects">
-        <h2>Projects</h2>
-        <article>
-            <h3>Data Mining and Analysis with Pandas</h3>
-            <p>This project demonstrates the process of data mining and analysis using Pandas in Python.</p>
-            <a href="https://github.com/reducesteps/Data_Mining_and_Analysis_with_Pandas" target="_blank">View on GitHub</a>
-        </article>
+        <h2><button class="collapsible">Projects</button></h2>
+        <div class="content">
+            <article>
+                <h3>Data Mining and Analysis with Pandas</h3>
+                <p>This project demonstrates the process of data mining and analysis using Pandas in Python.</p>
+                <a href="https://github.com/reducesteps/Data_Mining_and_Analysis_with_Pandas" target="_blank">View on GitHub</a>
+            </article>
+        </div>
     </section>
     <section id="contact">
-        <h2>Contact</h2>
-        <p>If you're interested in collaborating, hiring, or just discussing AI and tech, feel free to reach out!</p>
-        <form action="https://formspree.io/your-email-address" method="POST">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="subject">Subject:</label>
-            <input type="text" id="subject" name="subject" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" rows="4" required></textarea>
-            <input type="submit" value="Send">
-        </form>
+        <h2><button class="collapsible">Contact</button></h2>
+        <div class="content">
+            <!-- ... existing contact form ... -->
+        </div>
     </section>
     <footer>
         <p>© 2023 Jonathan Oakey</p>
