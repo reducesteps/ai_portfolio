@@ -1,0 +1,11 @@
+Jonathan Oakey's Profile
+
+- AI Specialist: Proficient in Python, JavaScript, Docker, and Linux.
+- Freelancing: Extensive experience freelancing on Fiverr.
+- Data Mining: Specialized in data mining and adept at handling and analyzing large datasets.
+- Pandas: Highly skilled with pandas data frames.
+- ChatGPT Plugins: Developed plugins to enhance conversational AI capabilities.
+- Chrome Plugins: Created various applications for Chrome.
+- OpenAI API: Utilized for multiple projects, harnessing the power of GPT models.
+- GPT-2 Training: Trained GPT-2 models for specific applications.
+- Hugging Face: Trained custom AI models, published them, and set up API endpoints, making them accessible and usable for the community.
